@@ -1,0 +1,15 @@
+V3 UPGRADE REQUIREMENTS
+Upgrade V2 rather than rebuilding from scratch.
+
+Add a Master Candidate Profile that can combine the user's CV, qualification and employment documents and treat newer verified information as current.
+
+CORRECTED WBHO TIMELINE:
+- June 2025–December 2025: WBHO Student Engineer/WIL, Park Place Apartments.
+- January 2026–12 June 2026: WBHO Engineer, Park Place Apartments.
+- 15 June 2026–Present: WBHO Engineer, Later Living.
+Park Place is approximately one continuous year of experience, with progression from Student Engineer to officially appointed Engineer.
+
+Current Later Living focus: structural work, mainly building cores containing staircases and lift shafts; planning, organising, supervising, presenting, managing and overseeing these structural works.
+Software: Synergy at Park Place; Autodesk Construction Cloud (ACC) at Later Living.
+
+The AI must tailor CVs and applications to each vacancy using only genuine supported information and must not invent experience.

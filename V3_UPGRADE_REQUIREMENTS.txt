@@ -1,0 +1,10 @@
+V3 UPGRADE REQUIREMENTS
+
+Upgrade V2 rather than rebuilding from scratch.
+
+1. Master Candidate Profile: ingest multiple documents, extract structured education, employment, skills, projects, software and certificates; recognise newer verified information over outdated CV statements.
+2. WBHO source: ingest WBHO_Experience_Master.txt.
+3. Timeline: Diploma in Civil Engineering awarded effective 1 January 2026; WBHO Student Engineer/WIL June–December 2025 at Park Place; WBHO Engineer January 2026–Present at Later Living.
+4. Job-specific CV tailoring: analyse each vacancy, match it to the master profile, select and reorder genuine relevant experience, and never invent.
+5. Application pack: tailored CV content, cover letter, application answers, match score, gaps, and interview preparation.
+6. Future hardening: downloadable DOCX/PDF CVs, persistent cloud database/authentication, and scheduled scans/notifications.
